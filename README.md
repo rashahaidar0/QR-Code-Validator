@@ -88,7 +88,3 @@ The program loads each QR code as a matrix of binary values. `equals()` checks w
 
 **Language:** Python 3  
 **Concepts:** Object-oriented programming, file I/O, 2D arrays, input validation, data comparison, and error handling.
-
-## Background
-
-Developed for **COMP 202 at McGill University** as a programming assignment focused on working with structured data and object-oriented design.
