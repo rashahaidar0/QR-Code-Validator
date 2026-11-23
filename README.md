@@ -1,6 +1,6 @@
 # QR Code Validator
 
-A Python project for reading, comparing, and validating QR-code data represented as binary text matrices. Built as part of McGill University's COMP 202 coursework.
+A Python project for reading, comparing, and validating QR-code data represented as binary text matrices. 
 
 ## Overview
 
